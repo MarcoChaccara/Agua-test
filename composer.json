@@ -1,0 +1,13 @@
+{
+    "name": "marco/agua",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Marco",
+            "email": "201912953f@utea.edu.pe"
+        }
+    ],
+    "require": {}
+}
